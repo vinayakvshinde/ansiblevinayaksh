@@ -5,5 +5,5 @@
 
   tasks: 
     - name: run the script
-       win_script: c:\prathmesh\Service.ps1
+      script: c:\prathmesh\Service.ps1
 ...
